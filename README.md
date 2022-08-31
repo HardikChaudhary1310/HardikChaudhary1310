@@ -4,8 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikchaudhary1310&label=Profile%20views&color=0e75b6&style=flat" alt="hardikchaudhary1310" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardikchaudhary1310" alt="hardikchaudhary1310" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardikchaudhary1310" alt="hardikchaudhary1310" /></a> </p><br>
+<h3><b><samp>About Me</samp></b></h3>
 
+- 👨🏻‍🎓 3rd Year B.Tech Student.
+- 💻 Computer Science Major.
+- 📱 Android Developer.
+- 🖥 Backend Developer.
+- ☕️ Java 
+<br>
 - 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **Full Stack Web Developement**
