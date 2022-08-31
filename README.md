@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone! I'm Hardik Chaudhary!👋</h1>
 <h3 align="center"><b>Frontent Developer+DevOps Engineer</b></h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br><br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hardikchaudhary1310&label=Profile%20views&color=0e75b6&style=flat" alt="hardikchaudhary1310" /> </p><br>
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikchaudhary1310&label=Profile%20views&color=0e75b6&style=flat" alt="hardikchaudhary1310" /> </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardikchaudhary1310" alt="hardikchaudhary1310" /></a> </p>
