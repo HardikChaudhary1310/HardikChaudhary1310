@@ -7,8 +7,8 @@
 
 - 👨🏻‍🎓 3rd Year B.Tech Student.
 - 💻 Computer Science Major.
-- 📱 Android Developer.
-- 🖥 Backend Developer.
+- 📱 Frontent Developer.
+- 🖥 DevOps(AWS Cloud) Developer.
 - ☕️ Java 
 <br>
 
