@@ -6,7 +6,7 @@
 
 <h3><b><samp>About Me</samp></b></h3>
 
-- 👨🏻‍🎓 3rd Year B.Tech Student.
+- 👨🏻‍🎓 4rd Year B.Tech Student.
 - 💻 Computer Science Major.
 - 📱 Frontent Developer.
 - 🖥 DevOps(AWS Cloud) Developer.
