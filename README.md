@@ -1,6 +1,6 @@
 [![MasterHead](https://qphs.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)](https://rishavchanda.io)
 <h1 align="center">Hey Everyone! I'm Hardik Chaudhary!👋</h1>
-<h3 align="center"><b>Frontent Developer+DevOps Engineer</b></h3>
+<h3 align="center"><b>Full Stack Developer</b></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hardikchaudhary1310&label=Profile%20views&color=0e75b6&style=flat" alt="hardikchaudhary1310" /> </p><br>
 
@@ -8,9 +8,9 @@
 
 - 👨🏻‍🎓 4rd Year B.Tech Student.
 - 💻 Computer Science Major.
-- 📱 Frontent Developer.
+- 📱 Full Stack Web Developer.
 - 🖥 DevOps(AWS Cloud) Developer.
-- ☕️ Java 
+- ☕️ Java/Python(Fast API)
 <br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardikchaudhary1310" alt="hardikchaudhary1310" /></a> </p><br>
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **DevOps,Frontent Development,Competitive Programming**
 
-- 📫 How to reach me **hardikchaudhary1310@gmail.com**
+- 📫 How to reach me **hardikchaudhary713@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1PAFBjrG16qgdNf-hDZ1vtUdjfCYYx5Vs/view?usp=sharing](https://drive.google.com/file/d/1PAFBjrG16qgdNf-hDZ1vtUdjfCYYx5Vs/view?usp=sharing)
 
