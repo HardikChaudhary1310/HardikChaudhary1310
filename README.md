@@ -6,9 +6,9 @@
 
 <h3><b><samp>About Me</samp></b></h3>
 
-- 👨🏻‍🎓 4rd Year B.Tech Student.
+- 👨🏻‍🎓 Software Developer with 3+ years of experience building secure web apps using FastAPI, modern UIs with Next.js, and integrating LLM-based AI for automation.
 - 💻 Computer Science Major.
-- 📱 Full Stack Web Developer.
+- 📱 Full Stack Developer.
 - 🖥 DevOps(AWS Cloud) Developer.
 - ☕️ Java/Python(Fast API)
 <br>
